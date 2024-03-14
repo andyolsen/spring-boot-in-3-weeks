@@ -1,0 +1,15 @@
+spring:
+  config:
+    activate:
+      on-profile: UK
+txfmt:
+  currency: GBP
+  dtformat: dd-MM-yyyy HH:mm:ss
+---
+spring:
+  config:
+    activate:
+      on-profile: US
+txfmt:
+  currency: USD
+  dtformat: MM-dd-yyyy HH:mm:ss

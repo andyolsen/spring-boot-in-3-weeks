@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec67ef50-6228-4c09-9f1b-58f9fea9a0f9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2K5DFhuniwJgQdB3I4DwNf3t3JH" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/OSL/Courses/Pearson/Spring Boot in 3 weeks [version 3]/MasterMaterials/demos/demo-18-testing",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSL\Courses\Spring Boot [current, 3.x Java 21 using JDBC]\Labs\spring-boot-dev\demos\demo-testing\src\test" />
+      <recent name="C:\OSL\Courses\Pearson\Spring Boot in 3 weeks [version 2]\spring-boot-in-3-weeks\demos\demo-testing\src\test\java" />
+      <recent name="C:\OSL\Courses\Pearson\Spring Boot in 3 weeks [version 2]\spring-boot-in-3-weeks\demos\demo-testing\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="demo.testing" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in demo-18-testing">
+    <configuration name="All in demo-18-testing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-18-testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in demo-testing (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-18-testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in demo-testing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-18-testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoProperties1_Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-18-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demo.testing" />
+      <option name="MAIN_CLASS_NAME" value="demo.testing.DemoProperties1_Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoProperties2_Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-18-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demo.testing" />
+      <option name="MAIN_CLASS_NAME" value="demo.testing.DemoProperties2_Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-18-testing" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="demo.testing.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTestingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-18-testing" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demotesting.DemoTestingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in demo-18-testing" />
+      <item itemvalue="JUnit.All in demo-testing (1)" />
+      <item itemvalue="JUnit.All in demo-testing" />
+      <item itemvalue="JUnit.DemoProperties1_Tests" />
+      <item itemvalue="JUnit.DemoProperties2_Tests" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.DemoTestingApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in demo-18-testing" />
+        <item itemvalue="JUnit.All in demo-testing (1)" />
+        <item itemvalue="JUnit.All in demo-testing" />
+        <item itemvalue="JUnit.DemoProperties2_Tests" />
+        <item itemvalue="JUnit.DemoProperties1_Tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec67ef50-6228-4c09-9f1b-58f9fea9a0f9" name="Changes" comment="" />
+      <created>1673255448505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673255448505</updated>
+      <workItem from="1673255450379" duration="486000" />
+      <workItem from="1673256039844" duration="31000" />
+      <workItem from="1673256127193" duration="84000" />
+      <workItem from="1675679729715" duration="537000" />
+      <workItem from="1705586700654" duration="1047000" />
+      <workItem from="1705993553652" duration="75000" />
+      <workItem from="1706001168344" duration="21000" />
+      <workItem from="1710239172066" duration="3332000" />
+      <workItem from="1710242934277" duration="114000" />
+      <workItem from="1710259214936" duration="21000" />
+      <workItem from="1710412111644" duration="257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

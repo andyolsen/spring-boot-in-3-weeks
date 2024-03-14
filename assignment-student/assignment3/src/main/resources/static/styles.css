@@ -1,0 +1,17 @@
+body {
+    font-family: "Segoe UI Light", Arial, sans-serif;
+}
+
+button {
+    margin-right: 1em;
+}
+
+#displayArea {
+    font-family: "Courier New";
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 1em;
+    padding: 2px;
+    background-color: dodgerblue;
+    color: white;
+}

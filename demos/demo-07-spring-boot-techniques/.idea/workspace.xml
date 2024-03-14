@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e74f9ced-9887-4368-8dd4-896d6764075c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2K3COYvPNWqq6bgXDPtpNvKAkMT" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/OSL/Courses/Pearson/Spring Boot in 3 weeks [version 3]/MasterMaterials/demos/demo-07-spring-boot-techniques",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSL\Courses\Pearson\Spring Boot in 3 weeks [version 3]\MasterMaterials\demos\demo-07-spring-boot-techniques" />
+      <recent name="C:\OSL\Courses\Pearson\Spring Boot in 3 weeks [version 2]\spring-boot-in-3-weeks\demos\demo-07-spring-boot-techniques\src\main\resources" />
+      <recent name="C:\OSL\Courses\Pearson\Spring Boot in 3 weeks [version 2]\spring-boot-in-3-weeks\demos\demo-07-spring-boot-techniques\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSL\Courses\Pearson\Spring Boot in 3 weeks [version 3]\MasterMaterials\demos\demo-07-spring-boot-techniques\src\main\resources" />
+      <recent name="C:\OSL\Courses\Pearson\Spring Boot in 3 weeks [version 3]\MasterMaterials\demos\demo-07-spring-boot-techniques\config" />
+      <recent name="C:\OSL\Courses\Pearson\Spring Boot in 3 weeks [version 3]\MasterMaterials\demos\demo-07-spring-boot-techniques\src\main\resources\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application (2)">
+    <configuration name="AppWithCommandLineProps" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="demo-07-spring-boot-techniques" />
+      <option name="PROGRAM_PARAMETERS" value="--name=&quot;Mary Jones&quot;" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="demo.commandlineproperties.Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.commandlineproperties.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo-07-spring-boot-techniques" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="demo.yamlpropertiesfiles.Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.yamlpropertiesfiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo-07-spring-boot-techniques" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="demo.profiles.Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.profiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo-07-spring-boot-techniques" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="demo.differentpropertiesfile.Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.differentpropertiesfile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.AppWithCommandLineProps" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.Application (1)" />
+      <item itemvalue="Spring Boot.Application (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application (2)" />
+        <item itemvalue="Spring Boot.Application (1)" />
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Spring Boot.AppWithCommandLineProps" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e74f9ced-9887-4368-8dd4-896d6764075c" name="Changes" comment="" />
+      <created>1673193848116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673193848116</updated>
+      <workItem from="1673193849586" duration="487000" />
+      <workItem from="1706777288597" duration="564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,23 @@
+onlineRetailer:
+    salesTaxRate: 0.20    # Sales tax rate.
+    deliveryCharge: 
+        normal: 2.50      # Delivery charge (GBP) on normal deliveries.
+        threshold: 3000   # Threshold cart value (GBP), for free delivery.
+---
+spring:
+    config:
+        activate:
+            on-profile: development
+resources:
+    db: H2
+    logs: C:\temp\logs\
+    secure: false
+---
+spring:
+    config:
+        activate:
+            on-profile: production
+resources:
+    db: Oracle
+    logs: //PROD_SERVER/logs/
+    secure: true

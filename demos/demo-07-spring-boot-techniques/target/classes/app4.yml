@@ -1,0 +1,17 @@
+apiserver:
+  address: 192.168.1.100
+  port: 8080
+---
+spring:
+  config:
+    activate:
+      on-profile: development
+apiserver:
+  address: 127.0.0.1
+---
+spring:
+  config:
+    activate:
+      on-profile: production
+apiserver:
+  address: 192.168.1.120

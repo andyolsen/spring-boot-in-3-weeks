@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>REST client example page</title>
+    <script src="code.js"></script>
+    <link href="styles.css" rel="stylesheet">
+    <link rel="icon" href="favicon.png">
+</head>
+<body>
+    <div>Click a button to call a REST API [see Console for results]</div>
+        <button onclick="demo1()">GET all products</button>
+        <button onclick="demo2()">GET one product</button>
+        <button onclick="demo3()">INSERT product</button>
+    </div>
+
+    <script>
+        function demo1() {
+            const promise = RestClient.getAllProducts()
+            promise.then(data => console.log(`All products: ${JSON.stringify(data)}`))
+        }
+
+        async function demo2() {
+            const data = await RestClient.getProduct(1)
+            console.log(`Product 1: ${JSON.stringify(data)}`)
+        }
+
+        async function demo3() {
+            const product = {description: 'Lamborghini Sian', price: 800000}
+            const response = await RestClient.insertProduct(product)
+            console.log(response)
+        }
+    </script>
+</body>
+</html>

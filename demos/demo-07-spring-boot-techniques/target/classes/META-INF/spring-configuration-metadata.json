@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "apiserver",
+      "type": "demo.profiles.MyBeanWithValues",
+      "sourceType": "demo.profiles.MyBeanWithValues"
+    },
+    {
+      "name": "contact",
+      "type": "demo.yamlpropertiesfiles.MyBean3b",
+      "sourceType": "demo.yamlpropertiesfiles.MyBean3b"
+    }
+  ],
+  "properties": [
+    {
+      "name": "apiserver.address",
+      "type": "java.lang.String",
+      "sourceType": "demo.profiles.MyBeanWithValues"
+    },
+    {
+      "name": "apiserver.port",
+      "type": "java.lang.String",
+      "sourceType": "demo.profiles.MyBeanWithValues"
+    },
+    {
+      "name": "contact.email",
+      "type": "java.lang.String",
+      "sourceType": "demo.yamlpropertiesfiles.MyBean3b"
+    },
+    {
+      "name": "contact.tel",
+      "type": "java.lang.String",
+      "sourceType": "demo.yamlpropertiesfiles.MyBean3b"
+    },
+    {
+      "name": "contact.web",
+      "type": "java.lang.String",
+      "sourceType": "demo.yamlpropertiesfiles.MyBean3b"
+    }
+  ],
+  "hints": []
+}

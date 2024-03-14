@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns:th="https://www.thymeleaf.org">
+
+    <head>
+        <title>Please Log In</title>
+        <style>
+            body {
+                font-family: Calibri;
+            }
+            label {
+                width: 100px;
+                float: left;
+            }
+            .error {
+                width:100%;
+                color: white;
+                background-color: #e03416;
+                padding: 5px;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <div th:if="${param.logout == null}">
+
+            <h1>Login page</h1>
+
+            <form th:action="@{/login}" method="post">
+                <div>
+                    <label>User name: </label>
+                    <input type="text" name="username">
+                </div>
+                <div>
+                    <label>Password: </label>
+                    <input type="password" name="password">
+                </div>
+                <div>
+                    <input type="submit" value="Log in">
+                </div>
+            </form>
+
+            <div th:if="${param.error}" class="error">
+                Invalid user name or password
+            </div>
+
+        </div>
+
+        <div th:if="${param.logout != null}">
+            <h1>You have been logged out</h1>
+            Click <a href="/index">here</a> to go back to the home page.
+        </div>
+
+    </body>
+
+</html>
